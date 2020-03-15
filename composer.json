@@ -9,5 +9,6 @@
             "email": "jakub.onderka@gmail.com",
             "homepage": "http://www.acci.cz"
         }
-    ]
+    ],
+    "abandoned": "php-parallel-lint/php-code-style"
 }
